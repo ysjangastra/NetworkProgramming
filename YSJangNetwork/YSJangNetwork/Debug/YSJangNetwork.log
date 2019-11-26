@@ -1,0 +1,4 @@
+﻿  NetSource01.cpp
+c:\users\knuser\documents\visual studio 2015\projects\ysjangnetwork\ysjangnetwork\netsource01.cpp(26): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  YSJangNetwork.vcxproj -> C:\Users\knuser\Documents\Visual Studio 2015\Projects\YSJangNetwork\Debug\YSJangNetwork.exe
+  YSJangNetwork.vcxproj -> C:\Users\knuser\Documents\Visual Studio 2015\Projects\YSJangNetwork\Debug\YSJangNetwork.pdb (Full PDB)

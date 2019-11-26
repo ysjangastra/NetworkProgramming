@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (YSJangMTH_TCP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MT_TCPServer.c
+c:\ysjangmth_tcp\ysjangmth_tcp\mt_tcpserver.c(28): warning C4047: '함수': 'const time_t *const '의 간접 참조 수준이 'tm **'과(와) 다릅니다.
+c:\ysjangmth_tcp\ysjangmth_tcp\mt_tcpserver.c(28): warning C4024: 'localtime': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\ysjangmth_tcp\ysjangmth_tcp\mt_tcpserver.c(17): warning C4101: 'buf' :참조되지 않은 지역 변수입니다.
+c:\ysjangmth_tcp\ysjangmth_tcp\mt_tcpserver.c(20): warning C4101: 'retval' :참조되지 않은 지역 변수입니다.
+c:\ysjangmth_tcp\ysjangmth_tcp\mt_tcpserver.c(31): warning C4716: 'ProcessClient': 값을 반환해야 합니다.
+  YSJangMTH_TCP.vcxproj -> C:\YSJangMTH_TCP\Debug\YSJangMTH_TCP_Server.exe
+  YSJangMTH_TCP.vcxproj -> C:\YSJangMTH_TCP\Debug\YSJangMTH_TCP_Server.pdb (Partial PDB)

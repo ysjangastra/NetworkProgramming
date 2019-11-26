@@ -1,0 +1,4 @@
+﻿  MT_TCPclient.c
+l:\3학년 네트워크 프로그래밍\ysjangmttcpecho\ysjangmt_tcpechoclient\mt_tcpclient.c(85): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+l:\3학년 네트워크 프로그래밍\ysjangmttcpecho\ysjangmt_tcpechoclient\mt_tcpclient.c(92): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  YSJangMT_TCPechoClient.vcxproj -> L:\3학년 네트워크 프로그래밍\YSJangMTTCPecho\x64\Debug\YSJangMT_TCPechoClient.exe
